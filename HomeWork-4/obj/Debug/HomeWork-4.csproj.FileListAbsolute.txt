@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\bin\Debug\HomeWork-4.exe.config
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\bin\Debug\HomeWork-4.exe
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\bin\Debug\HomeWork-4.pdb
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\obj\Debug\HomeWork-4.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\obj\Debug\HomeWork-4.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\obj\Debug\HomeWork-4.exe
+C:\Users\Shipa\source\repos\HomeWork-4\HomeWork-4\obj\Debug\HomeWork-4.pdb
